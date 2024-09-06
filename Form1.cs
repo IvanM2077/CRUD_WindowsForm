@@ -1,4 +1,4 @@
-﻿using ExelSolar.Logica;
+using ExelSolar.Logica;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
